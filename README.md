@@ -25,8 +25,8 @@ The application will be run with the following command:
 ```
 node script.js
 ```
-### Video Demo
-[![Demo](/assets/demo.gif)]
+### Demo
+![Demo](/assets/demo.gif)
 
 
 
